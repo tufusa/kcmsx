@@ -1,5 +1,6 @@
 {
   "$schema": "https://github.com/googleapis/release-please/raw/main/schemas/config.json",
+  "include-v-in-tag": false,
   "tag-separator": "@",
   "separate-pull-requests": true,
   "packages": {
