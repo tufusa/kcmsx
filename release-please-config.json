@@ -1,0 +1,11 @@
+{
+  "$schema": "https://github.com/googleapis/release-please/raw/main/schemas/config.json",
+  "tag-separator": "@",
+  "separate-pull-requests": true,
+  "packages": {
+    "packages/config": {},
+    "packages/kcms": {},
+    "packages/kcmsf": {},
+    "packages/mock": {}
+  }
+}
