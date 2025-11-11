@@ -1,4 +1,5 @@
 {
   "packages/kcmsf": "1.0.0",
-  "packages/kcms": "1.0.0"
+  "packages/kcms": "1.0.0",
+  "packages/config": "1.0.0"
 }
