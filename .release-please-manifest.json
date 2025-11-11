@@ -3,5 +3,6 @@
   "kcms": "1.0.0",
   "kcmsf": "0.0.0",
   "mock": "1.0.0",
-  "packages/kcmsf": "1.0.0"
+  "packages/kcmsf": "1.0.0",
+  "packages/config": "1.0.0"
 }
