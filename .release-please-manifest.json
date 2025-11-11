@@ -1,8 +1,4 @@
 {
-  "config": "1.0.0",
-  "kcms": "1.0.0",
-  "kcmsf": "0.0.0",
-  "mock": "1.0.0",
   "packages/kcmsf": "1.0.0",
   "packages/kcms": "1.0.0"
 }
